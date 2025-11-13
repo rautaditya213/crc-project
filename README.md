@@ -38,7 +38,6 @@ Enter the same generator polynomial
 Click Check Validity
 
 💡 Why I Built This
-
 This project was created to:
 Understand the working of CRC error detection
 Visualize how remainder and codeword are generated
